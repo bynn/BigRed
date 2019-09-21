@@ -1,4 +1,4 @@
-,YOB,Income,Lon,Lat,Apl_Year,gender,Accepted
+ID,YOB,Income,Lon,Lat,Apl_Year,gender,Accepted
 0,1985,6902,-84,26,2017,0,False
 1,1935,9027,-81,28,2017,0,False
 2,1944,4657,-95,28,2016,0,True
